@@ -1,2 +1,5 @@
 Descripcion del respositorio
 <img width="886" height="670" alt="image" src="https://github.com/user-attachments/assets/9e2c2a74-3db6-4761-998c-3d8f13fd7414" />
+
+
+<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/10c85a13-9ce1-4ed3-96b5-967fb2620749" />
